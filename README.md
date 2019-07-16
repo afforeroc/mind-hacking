@@ -1,5 +1,5 @@
 # Mind Hacking
-A framework based on `Mind Trolling`
+A framework based on `Mind Trolling` and `Mind Fucking`
 
 ## Principles
 *This is a true proposition that cannot be proved*
@@ -12,6 +12,6 @@ A framework based on `Mind Trolling`
 Do not tell anyone
 
 ## License
-GMF license
+GMH License
 
 [More recursive info](https://github.com/afforeroc/mind-hacking)
