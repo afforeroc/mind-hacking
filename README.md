@@ -2,7 +2,7 @@
 A framework based on `Mind Trolling` and `Mind Fucking`
 
 ## Principles
-*This is a true proposition that cannot be proved*
+*This is a proposition that cannot be proved neither hacked*
 
 ## Rules
 1. **Confuse and conquer**
