@@ -1,5 +1,5 @@
 # Mind Hacking :goat:
-A framework based on `Mind Trolling` and `Mind Fucking`
+A framework based on [trolling](https://www.urbandictionary.com/define.php?term=Trolling) and [mindfuck](https://www.urbandictionary.com/define.php?term=mindfuck)
 
 ## Principles
 *This is a proposition that cannot be proved*
