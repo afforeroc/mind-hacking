@@ -2,16 +2,16 @@
 A framework based on `Mind Trolling` and `Mind Fucking`
 
 ## Principles
-*This is a proposition that cannot be proved neither hacked*
+*This is a proposition that cannot be proved*
 
 ## Rules
-1. **Confuse and conquer**
-2. **Don't do it the step one**
+1. Confuse and conquer
+2. Don't do it the step one
 
 ## Contributing
-Do not tell anyone
+Live it and don't tell anyone
 
 ## License
-GMH License
+GodMindHacking License
 
 [More recursive info](https://github.com/afforeroc/mind-hacking)
