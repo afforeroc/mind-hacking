@@ -1,4 +1,4 @@
-# Mind Hacking
+# Mind Hacking :goat:
 A framework based on `Mind Trolling` and `Mind Fucking`
 
 ## Principles
